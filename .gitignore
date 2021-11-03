@@ -1,0 +1,6 @@
+*.o
+*.vvp
+*.vpi
+sdl
+*.swp
+top.v
